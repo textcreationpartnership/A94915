@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true and faithful discharge of relative duties, is a very great honour and ornament to the doctrine of the gospel without, which the talk of Godliness, and profession of religion, is vain; and therefore all Christians should labour to understand their relative duties, and be careful and conscionable in the discharge of them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94915</idno>
+            <idno type="STC">Wing T2473</idno>
+            <idno type="STC">ESTC R222981</idno>
+            <idno type="EEBO-CITATION">99896712</idno>
+            <idno type="PROQUEST">99896712</idno>
+            <idno type="VID">135581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2449:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true and faithful discharge of relative duties, is a very great honour and ornament to the doctrine of the gospel without, which the talk of Godliness, and profession of religion, is vain; and therefore all Christians should labour to understand their relative duties, and be careful and conscionable in the discharge of them.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Awnsham Churchil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Duties of wives, husbands, children, parents, servants, and masters.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:135581:1"/>
+            <head>The true and faithful Diſcharge of
+RELATIVE DUTIES
+Is a very great Honour and Ornament to the
+DOCTRINE of the GOSPEL;
+Without, which the talk of Godlineſs, and Profeſſion of Religion, is vain; and
+therefore all Chriſtians ſhould labour to underſtand their Relative Duties,
+and be careful and conſcionable in the diſcharge of them.</head>
+            <div type="part">
+               <head>The Duties of Wives.</head>
+               <p>1. TIs their duty to love their
+Husbands: this is a duty that
+helps to the right performance of
+every duty no; duty will be well
+diſcharged without it, tis ſo neceſſary
+that the Apoſtle would not only
+have <hi>Titus</hi> preſs it himſelf, but put
+the aged women upon teaching
+the younger to love their Husbands.
+<hi>Tit.</hi> 24.</p>
+               <p>2. To be ſubject to their husbands,
+this is the Cardinal, vertue, the prime
+vertue of a wife, therefore the
+Apoſtles do ſo oft in plain expreſs
+termes require and preſs it, <hi>Eph.</hi> 5.
+22. 23. <hi>Col. 3. 18. 1 Pet.</hi> 3. 1. 'tis
+a breach of God's order when Wives
+are not ſubject.</p>
+               <p>3. To be faithful, <hi>&amp;c.</hi> they muſt
+not in word or action be unfaith<g ref="char:EOLhyphen"/>ful
+to their Husbands, this is a
+breach of Covenant, yea the Lords
+Covenant, <hi>Prov</hi> 2. 17.</p>
+               <p>4. To be careful to pleaſe, <hi>&amp;c.</hi>
+1 <hi>Cor.</hi> 7. 34. the Apoſtle takes it for
+granted, that a good wife dos ſo, be<g ref="char:EOLhyphen"/>cauſe
+ſhe ought to do ſo.</p>
+               <p>5. To endeavour to win the
+ſouls of their Husbands, and that;
+1. By a holy Converſation a good
+carriage, 1 <hi>Pet.</hi> 3. 1. 2. By gentle per<g ref="char:EOLhyphen"/>ſwaſions,
+perſwading them to mind
+the good of their ſouls, 1 <hi>Cor.</hi> 7.
+16.</p>
+               <p>6. To bear quietly and patiently
+with their Husbands. 1 <hi>Pet.</hi> 3. 4. as
+wives ſhould not provoke their Huſ<g ref="char:EOLhyphen"/>bands,
+ſo they ſhould not eaſily be
+provoked by them.</p>
+               <p>7. To reverence their Husbands,
+the Holy Ghoſt takes notice of it as
+a commendable thing in <hi>Sarah,</hi> ſhe
+call'd her Husband Lord, 1 <hi>Pet.</hi> 3. 6.
+tis mentioned as an uſual thing done
+by her.</p>
+               <p>8. To be helpful to, <hi>&amp;c.</hi> one end
+of the Wives Creation was to help
+her Husband, <hi>Gen.</hi> 2. 18. they muſt
+be helpful to their Bodies, Eſtates,
+Souls, <hi>Pro.</hi> 31. 12.</p>
+            </div>
+            <div type="part">
+               <head>Of Husbands.</head>
+               <p>1. TO love their Wives, 'tis the
+duty of Wives to love their
+Husbands, Children their Parents,
+Servants their Maſters, <hi>&amp;c.</hi> but more
+eſpecially the Husband is to love
+the Wife, or with a more ſpecial
+love, this is the prime vertue of a
+Husband, <hi>Col. 3. 19. Eph.</hi> 5. 25.
+Chriſt is the Pattern and Example,
+28, and 33.</p>
+               <p>2. To dwell with their Wives, 1 <hi>Pet.</hi>
+3. 7. the Husband muſt forſake Fa<g ref="char:EOLhyphen"/>ther
+and Mother and cleave to his
+Wife, <hi>G.</hi> 2. 24. Where the Apoſtle
+ſtates the queſtion of ſeparating for
+faſting and prayer by conſent, he
+ſhews muſt be only for a time, and
+then they muſt come together
+again, 1 <hi>Cor.</hi> 7. 5. Chriſt condemns
+the Jews putting away their Wives
+when they diſliked them. <hi>Mat.</hi> 11.</p>
+               <p>3. To pray for their Wives, <hi>G.</hi> 25.
+21. he did not curſe his Wife, nor
+was bitter againſt her becauſe ſhe
+had no children, but intreated the
+Lord for her.</p>
+               <p>4. To pray with his Wife. 1 <hi>Pet.</hi>
+3. 9. the Apoſtle takes it for gran<g ref="char:EOLhyphen"/>ted
+that good Husbands and Wives
+pray together, that tis their manner
+and cuſtom to do ſo. They have
+mutual need of protection, directi<g ref="char:EOLhyphen"/>on,
+many bleſſings.</p>
+               <p>5. To be faithful to their Wives,
+otherwiſe the Lord will be a wit<g ref="char:EOLhyphen"/>neſs
+againſt them. <hi>Mat.</hi> 2. 14.</p>
+               <p>6. Wiſely to manage their autho<g ref="char:EOLhyphen"/>rity,
+muſt not be with paſſion and
+bitterneſs, but with wiſdom, meek<g ref="char:EOLhyphen"/>neſs,
+patience. 1 <hi>Pet.</hi> 3. 7.</p>
+               <p>7. To maintain their Wives au<g ref="char:EOLhyphen"/>thority;
+if tis weakened, they will
+prevail the leſs in their Husbands
+abſence. <hi>G.</hi> 16. 6.</p>
+               <p>8. To honour their Wives, 1 <hi>Pet.</hi>
+3. 7. the Husband is to reſpect and
+eſteem his Wife, or otherwiſe he will
+diſcourage her, and occaſion unqui<g ref="char:EOLhyphen"/>etneſs.</p>
+               <p>9. To cover the infirmities of
+their Wives, <hi>Joſeph</hi> had great cauſe
+to ſuſpect his Wife of incontinency,
+a foul crime, yet he would not make
+her a publick example. <hi>Mat.</hi> 1. 19.</p>
+               <p>10. To adviſe with their Wives.
+God hath made the Wife of her Huſ<g ref="char:EOLhyphen"/>bands
+Privy-Council. <hi>G.</hi> 31. 4.</p>
+               <p>11. To comfort their Wives. Have
+they trouble of ſpirit, affliction of
+body, loſs of Children <hi>&amp;c.</hi> Husbands
+muſt endeavour to comfort them in
+all their troubles and afflictions, out<g ref="char:EOLhyphen"/>ward,
+inward. <hi>Eph.</hi> 5. 29.</p>
+            </div>
+            <div type="part">
+               <head>Of Children.</head>
+               <p>1, TO honour their Parents; this is
+expreſs in the fifth Com<g ref="char:EOLhyphen"/>mandment,
+where, 1. 'Tis directly
+mentioned, not by conſequence.
+2. It hath a promiſe annexed to it,
+<hi>that thy days may be long, &amp;c.</hi> and
+under long life is included a proſ<g ref="char:EOLhyphen"/>perous
+life, ſo far as ſhall be for Gods
+Glory &amp; their good, which ſheweth
+the ſpecial reſpect God hath to
+thoſe that honour their Parents, and
+how ready he is to beſtow his
+Bleſſing on them, <hi>Eph.</hi> 6. 2, 3. Chil<g ref="char:EOLhyphen"/>dren
+muſt honour their Parents,
+1. in Heart; they muſt keep an in<g ref="char:EOLhyphen"/>ward
+reverence of them, <hi>Lev.</hi> 19. 3.
+2. In Word; give them honourable
+Titles, and meek and courteous
+ſpeech, <hi>G. 22. 7. Pro.</hi> 31. 28. 3. In be<g ref="char:EOLhyphen"/>haviour,
+giving them obey ſance; thus
+we find the Saints of old, even thoſe
+eminent ones that are gone up to
+glory, <hi>G. 46. 12. Ex. 18. 7. 1 King.</hi>
+2. 19.</p>
+               <p>2. To obey their Parents, in their
+commands, inſtructions, repoofs,
+<hi>Eph. 6. 1. Pro.</hi> 1. 8, 9.</p>
+               <p>3. To ſubmit to their corrections,
+<hi>Heb.</hi> 12, 9. the Apoſtle does not only
+mention what they had done, but
+intimates what Children ſhould do.</p>
+               <p>4. To bear with the infirmities
+of their Parents, cover them in
+love, <hi>Pro.</hi> 23. 22. old Women are
+many times full of infirmities, pet<g ref="char:EOLhyphen"/>tiſh,
+ſroward, humerous, but Children
+muſt not therefore deſpiſe them, but
+bear with and cover their infirmi<g ref="char:EOLhyphen"/>ties,
+<hi>G.</hi> 9. 23.</p>
+               <p>5. To requite their Parents their
+kindneſs care and coſt toward them,
+1 <hi>Tim.</hi> 5. 4. this Children ſhould do,
+1. By acknowledging their Parents
+Love and paines. 2. By a dutiful
+behaviour; this is the crown of Pa<g ref="char:EOLhyphen"/>rents,
+a great comfort to them. 3.
+By viſiting of them, eſpecially in
+time of ſickneſs, and diſcomfort. <hi>G.</hi>
+48. 2. 3. and 37. 35. 4. By aiding
+and relieving them, if they be low
+and in neceſſity, <hi>G.</hi> 45. 10. Chriſt
+ſhews it was wicked doctrine, to
+free perſons from relieving their
+poor neceſſitous parents, <hi>Mat.</hi> 7. 11,
+12. 5. By endeavouring to protect
+them in time of danger, 1 <hi>Sam.</hi> 22.
+3. 4.</p>
+            </div>
+            <div type="part">
+               <head>Of Parents.</head>
+               <p>1. TO pray with and for their Chil<g ref="char:EOLhyphen"/>dren.
+Your Children have their
+natural blindneſs and corruption
+from you, and ſhould not you pray
+for their good? <hi>G.</hi> 17. 18.</p>
+               <p>2. To teach them the holy Scrip<g ref="char:EOLhyphen"/>ture,
+and that both by reading to
+them, and bringing them up in read<g ref="char:EOLhyphen"/>ing;
+it was the ſpecial commenda<g ref="char:EOLhyphen"/>tion
+of <hi>Lois</hi> and <hi>Eunice. 2 Tim.</hi> 1.
+5. 3. 15.</p>
+               <p>3. To catechiſe their Children,
+<hi>Pro.</hi> 22. 6. traine up or catechiſe.</p>
+               <p>4. To inculcate ſpiritual inſtru<g ref="char:EOLhyphen"/>ctions,
+not only to teach, but fre<g ref="char:EOLhyphen"/>quently,
+diligently, <hi>Deut.</hi> 6, 6, 7. and
+11. 9.</p>
+               <p>5. To deliver to their Children
+thoſe memorable paſſages of pro<g ref="char:EOLhyphen"/>vidence
+that have been in their days,
+or their fathers have told them, <hi>Joſh.</hi>
+4. 21, 22. <hi>Deut. 4. 9. Pſa.</hi> 78. 4.</p>
+               <p>6. To have their Children to the
+ſolemn Worſhip of God. Parents
+muſt not ſuffer their Children to
+ſerve the Devil while they are ſer<g ref="char:EOLhyphen"/>ving
+the Lord. <hi>G.</hi> 35. 3.</p>
+               <p>7. To correct their Children. They
+muſt not only charge and com<g ref="char:EOLhyphen"/>mand
+their Children, <hi>G.</hi> 18. 19.
+but correct them if they do not
+obſerve their Commands. <hi>Prov.</hi> 13.
+24. and 22. 15. and 23. 14. <hi>Elies.</hi> in<g ref="char:EOLhyphen"/>dulgence
+coſt him dear, 1 <hi>Sam.</hi> 2. 31.</p>
+               <p>8. Not to exaſperate their Chil<g ref="char:EOLhyphen"/>dren;
+Parents ſhonld endeavour
+alway to evidence that what they
+do is out of love. <hi>Eph. 6. 4. Col.</hi> 3.
+21. 'tis an exhortation to Parents
+not to be over harſh and ſharp to<g ref="char:EOLhyphen"/>ward
+their Children, that may give
+them occaſion rather to hate, than
+love them.</p>
+               <p>9. To bring them up in honeſt
+calling's <hi>Adam,</hi> that was Lord of the
+whole world, and the father of all
+living, brought up his ſons in
+honeſt Callings, one was a ſhepherd,
+the other an Husband-Man. <hi>G.</hi> 4. 2.
+<hi>Tit.</hi> 3. 14.</p>
+               <p>10. To guide their Children in
+their Matches, the glory of God; the
+credit of Religion, the good of Chil<g ref="char:EOLhyphen"/>dren,
+and comfort of Parents them<g ref="char:EOLhyphen"/>ſelves,
+are all concerned in it; great
+evils have come into the world by
+ill Matches, <hi>G.</hi> 6. 24. how careful
+<hi>Abraham</hi> was, <hi>G.</hi> 24. 3. what a ſtrict
+charge, <hi>Deut</hi> 7. 3. the Father is to
+diſpoſe of his daughter, 1 <hi>Cor.</hi> 7. 38.</p>
+               <p>11. To provide for their Chil<g ref="char:EOLhyphen"/>dren,
+<hi>G. 30. 30. 1 Tim. 5. 8. 2 Cor.</hi>
+12. 14.</p>
+               <p>12. To give them good examples;
+the Parents actions be copies for
+their Children, very prevalent.
+<hi>David</hi> reſolved, <hi>Pſal.</hi> 101. 2. Good
+counſel's vain, without good exam<g ref="char:EOLhyphen"/>ples.</p>
+            </div>
+            <div type="part">
+               <head>Of Servants.</head>
+               <p>1. TO reverence their Governours
+of both Sexes; tis an ill beſeem<g ref="char:EOLhyphen"/>ing
+thing, yea a thing contrary to
+Scripture, for Servants to be ſaucy
+and checkmate, with their Maſters,
+1. <hi>Tim.</hi> 6. 1. all honour. <hi>i. e.</hi> in
+ſpeech and behaviour. 1 <hi>Pet.</hi> 2. 18.
+they muſt inwardly reverence their
+Maſters from the heart, and out<g ref="char:EOLhyphen"/>wardly
+declare it in word and car<g ref="char:EOLhyphen"/>riage,
+yea though they be not good
+and gentle, but froward. Servants
+are apt to deſpiſe and contemn thoſe
+that are peeviſh and froward, but
+this they muſt not do, they muſt
+have reſpect to the Ordinance of
+God, imply'd <hi>Mat.</hi> 1. 6.</p>
+               <p>2. To obey their Maſters. Religi<g ref="char:EOLhyphen"/>on
+doth not teach Servants to be
+looſe and careleſs; this obedience
+muſt be, 1. Chearful, not by com<g ref="char:EOLhyphen"/>pulſion,
+but free, willing. 2. Sincere,
+aiming at the good and welfare
+of their Maſters. 3. Univerſal, in all
+things, <hi>i. e.</hi> all lawful things; for
+otherwiſe they muſt obey God ra<g ref="char:EOLhyphen"/>ther
+than men, <hi>Eph. 6. 5. 7. Col.</hi> 3.
+22. <hi>Tit.</hi> 29.</p>
+               <p>3. To be diligent in their Maſters
+buſineſs, the wicked and ſlothful
+Servant are joyn'd together, <hi>Mat.</hi>
+25. 26. This diligence muſt not only
+be in the Maſters preſence, but in his
+abſence, <hi>Eph.</hi> 6. 6.</p>
+               <p>4. To bear patiently the checks
+and reproofs of their Maſters, they
+muſt not be croſs and curriſh, not
+give word for word, gain-ſaying is
+a great evil in a Servant, <hi>Tit.</hi> 2. 9.</p>
+               <p>5. To be faithful to their Maſters,
+the other are nothing without this:
+Let a Servant be skilful, painful, dili<g ref="char:EOLhyphen"/>gent,
+and of good carriage, 'tis no<g ref="char:EOLhyphen"/>thing
+without faithfulneſs, all other
+properties of a Servant ſtink with<g ref="char:EOLhyphen"/>out
+faithfulneſs, this is the prime
+vertue of a ſervant. Chriſt joyns
+good and faithful Servant together,
+<hi>Mat.</hi> 25. 21, 23. a Servant can never
+be a good Servant that is not a faith<g ref="char:EOLhyphen"/>ful
+Servant. <hi>Tit.</hi> 2. 10. Muſt ſhew
+all good fidelity. This faithfulneſs
+muſt extend to their Maſters name,
+eſtate, bodys, ſoules, relations, and
+muſt be equal and entire in all parts
+of faithfulneſs, in all kind of bu<g ref="char:EOLhyphen"/>ſineſs.</p>
+            </div>
+            <div type="part">
+               <head>Of Maſters.</head>
+               <p>1. TO be gentle, not harſh and ri<g ref="char:EOLhyphen"/>gorous,
+like the Task-Maſters
+of <hi>Egypt,</hi> this is unbecoming Chr<g ref="char:EOLhyphen"/>ſtian
+Maſters, the Apoſtle joyns the
+good and gentle together, 1 <hi>Pet.</hi> 2.
+18. muſt not be outragious for every
+trifle, but gentle, kindly, bear with
+their Servants. Maſters ſhould be as
+fathers to their Servants, not only in
+point of ſuperiority over their Ser<g ref="char:EOLhyphen"/>vants,
+but in point of loving and
+tender reſpect to their Servants,
+2 <hi>King. 5. 13. Eph.</hi> 6. 9.</p>
+               <p>2. To keep up their authority; loſe
+this, and the beauty of a family is
+loſt, and, 'tis much if ſad confuſion
+don't creep into the family; remem<g ref="char:EOLhyphen"/>ber
+in whoſe ſtead thou art, as a Ma<g ref="char:EOLhyphen"/>ſter
+and Governour of a family thou
+repreſenteſt God himſelf, who is the
+Maſter and Governour of all, and
+therefore thou ſhouldeſt maintain
+the dignity of the place wherein
+the Lord hath ſet thee.</p>
+               <p>3. To provide convenient, com<g ref="char:EOLhyphen"/>fortable
+food and rayment for their
+Servants. <hi>Prov.</hi> 31. 15, 21. are clo<g ref="char:EOLhyphen"/>thed
+with ſcarlet, or double gar<g ref="char:EOLhyphen"/>ments,
+<hi>i. e.</hi> they are well clothed
+againſt the cold, <hi>Col.</hi> 4. 1.</p>
+               <p>4. To look to their commands;
+both as to, 1. The matter of
+them; Maſters muſt ſee their Com<g ref="char:EOLhyphen"/>mands
+be lawful and good, muſt
+not impoſe any thing upon Servants
+which the Lord hath not warranted
+in his word, not require Servants
+to lye or filch for them, or break the
+Sabbath. 2. The meaſure, Maſters
+muſt not impoſe more labour upon
+their Servants than they have
+ſtrength well and comfortably to
+perfom; this is oppreſſion and cruel<g ref="char:EOLhyphen"/>ty,
+<hi>Eſai.</hi> 58. 6.</p>
+               <p>5. To protect and ſhelter their
+Servants, muſt not ſuffer them to be
+wronged and abuſed by others; as
+the Lord is a ſhield to his Servants,
+<hi>Pſa.</hi> 84. 11.</p>
+               <p>6. To take care of their Servants
+in their ſickneſs and weakneſs, and
+uſe means for their recovery, <hi>Mat.</hi>
+8. 6.</p>
+               <p>7. To endeavour the good of the
+ſouls of their Servants: of all duties
+this is the greateſt, and yet moſt
+neglected; good <hi>Joſhua</hi> would not
+Serve God alone, but have his hou<g ref="char:EOLhyphen"/>ſhold
+ſerve God with him, <hi>Joſ.</hi> 24.
+15. what a Religious family <hi>Abraham</hi>
+had; as they were train'd in civil af<g ref="char:EOLhyphen"/>fairs,
+and military poſtures. <hi>Gen.</hi>
+14. 14. ſo in Religious matters too.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Awnſham Churchil, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
